@@ -19,7 +19,7 @@ body {
 	font-family: newFont;
 }
 
-.wrap {
+.ja {
 	width: calc(100% - 40px);
 	background-color: #fff;
 	padding: 20px 10px;
@@ -30,22 +30,22 @@ body {
 	box-shadow: -3px -3px 5px rgba(255, 255, 255, 0.4),
 	             3px 3px 5px rgba(0, 0, 0, 0.288);
 }
-.wrap > * {
+.ja > * {
 	margin-top: 10px;
 }
-.wrap .content{
+.ja .content{
 	width: 100%;
 	display: flex;
 	height: 35px;
 	justify-content: space-between;
 }
 
-.wrap .content .column{
+.ja .content .column{
 	width: calc(100% / 4 - 10px);
 	border: black solid 1px;
 	border-radius: 3px;
 }
-.wrap .content .column select {
+.ja .content .column select {
 	width: 100%;
 	height: 100%;
 	border: none;
