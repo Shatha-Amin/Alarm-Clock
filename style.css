@@ -91,7 +91,7 @@ body {
 }
 
 @media (min-width: 768px) {
-	.wrap{
+	.ja{
 		width: 50%;
 		padding: 25px 30px;
 	}
